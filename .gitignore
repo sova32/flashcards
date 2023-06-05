@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Flashcards (Kotlin)/task/build/
+/Flashcards (Kotlin)/task/build/classes/java/test/
